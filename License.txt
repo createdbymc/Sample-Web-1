@@ -1,0 +1,7 @@
+MIT License
+
+Copyright (c) [2024] [Musa Can - CREATEDBYMC]
+
+İzin verilir, kopyalanması, dağıtılması ve değiştirilmesi için gerekli olan her türlü izni içerir. 
+
+Bu yazılım, hiçbir garanti olmaksızın sağlanmaktadır.
